@@ -1,14 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using AIM.ElevatorControl.API.Elevator;
+using AIM.ElevatorControl.API.Elevator.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace AIM.ElevatorControl
 {
@@ -25,6 +21,8 @@ namespace AIM.ElevatorControl
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            // Add singlton Elevator object available to all requests. 
+            services.AddSingleton<IElevator, Elevator>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

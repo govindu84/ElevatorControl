@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.API.csproj",
+      "projectUniqueName": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl.API\\AIM.ElevatorControl.API.csproj",
       "projectName": "AIM.ElevatorControl.API",
-      "projectPath": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.API.csproj",
+      "projectPath": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl.API\\AIM.ElevatorControl.API.csproj",
       "packagesPath": "C:\\Users\\govin\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\obj\\",
+      "outputPath": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

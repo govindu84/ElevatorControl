@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.csproj": {}
+    "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.Web.csproj": {}
   },
   "projects": {
-    "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.csproj": {
+    "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.csproj",
-        "projectName": "AIM.ElevatorControl",
-        "projectPath": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.csproj",
+        "projectUniqueName": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.Web.csproj",
+        "projectName": "AIM.ElevatorControl.Web",
+        "projectPath": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\AIM.ElevatorControl.Web.csproj",
         "packagesPath": "C:\\Users\\govin\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\c\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\obj\\",
+        "outputPath": "E:\\work\\ElevatorControl\\src\\AIM.ElevatorControl\\AIM.ElevatorControl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
