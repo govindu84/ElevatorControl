@@ -12,11 +12,11 @@ We need to provide an API over http, that is used by multiple teams to control a
 
 # API Request calls
 - To get all Floor details, perform following request. 
-    GET http://localhost:8080/api/elevator/GetAllFloorRequests
+    GET http://localhost:8080/api/elevator
 - Assign floor request to elevator control.
-    PUT http://localhost:8080/api/elevator/AssignFloorRequest?floor={N}
+    PUT http://localhost:8080/api/elevator?floor={N}
 -  Assign next floor request to elevator control.
-    POST http://localhost:8080/API/Elevator/AssignNextFloor
+    POST http://localhost:8080/API/Elevator
 
 ## Build/run
 
